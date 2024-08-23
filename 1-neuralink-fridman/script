@@ -1,0 +1,493 @@
+// ----------------------------------------------------------------------------
+// INTRO
+
+
+// ----------------------------------------------------------------------------
+// PART 1, Elon musk
+
+- from 0:00:00 to 1:28:13
+- Elon's meaning/goal in life:
+  - understand the nature of the universe
+    or help set up the foundation to get there
+  - hopefully AI can help us understand more
+  - Neuralink to keep up with AI
+  - he's worried about the survival of our civilization,
+    about the current declining birth rate,
+    he wants to make a self-sustaing city on Mars in case anything goes wrong on Earth!
+- About Neuralink
+  - Neuralink is a generalized Input/Output device, reading & generating electrical signals
+  - Currently 2 humans have a Neuralink implant.
+    Hope to do 10 by the end of year (8 more to go)
+    The 2nd one has 400 electrodes providing signals
+  - Goals:
+    - restore basic neurological damages
+    - blindsight: enable blind people to see
+    - long-term aspiration: improve AI-human symbiosis by increasing bandwidth of communication. Because if AI can produce TB of tokens, when human can only do 1 bit/second.
+    It's like talking to a tree!
+  - Predictions:
+    - believes there's a future with 100s of millions of people with neuralink
+    - available for the public in less than 10 years
+    - in 1 or 2 years, someone with neuralink could beat a pro-gamer,
+      thanks to faster reaction time
+    - could upload your memories to never forget anything
+- Basic first principle algorithm:
+  1. question the requirements, make them less dumb, reduce their number.
+     make the question the least wrong as possible
+  2. delete the steps where the process stops.
+     delete things, even if you need to put them back in after
+  3. optimize it, simplify the process
+  => mistake of smart engineers = optimize things that should not exist
+- Lex Friedman took some drugs
+  (it's Fridman, but he got fried, you get it) 
+- Elon is building a data/compute cluster to train AI in Memphis
+  - 100k GPUs, crazy amount of cables
+  - like one big brain
+  - not ready yet, but finally got some AI training going
+  - power fluctuation issues
+- About Optimus robots
+  - Elon is confident there will be billions of robots in the future
+  - still struggle to have it to walk in the park
+  - can already pick up objects
+  - hand: close to half of all the engineering effort
+  - still a lot of work to do
+- About xAI / grok
+  - grok 3 should be available at the end of the year (if they are lucky),
+    hopefully better than the state of the art
+  - data
+    - humans have accumulated just a little bit of data about the reality
+      when training an AI, we quickly run out of data.
+    - internet is polluted with a lot of AI content
+    - Tesla provides a lot of real-time video data (from several million of cars)
+    - Optimus robots should be able to provide a lot of data in the future
+      (could be the biggest source of data)
+    - grok (xAI) has the advantage of having immediate access to twitter data,
+      while other companies need to scrap it
+  - AI safety concerns:
+    - if you train AI to lie, you're really asking for trouble,
+    - if you enforce rules, they could backfire
+    - Elon wants to train AI to be as truthful as possible
+      for grok, they use AI to check if it's most likely correct or not before using the data
+- About Trump endorsment
+  - Elon implies he doesn't agree with everything DT said/done
+  - Trump displayed courage under fire, you can't fake bravery
+    while Biden struggled to walk
+  - So, at the time, Biden vs Trump was an easy choice
+  - we don't have a secure border,
+    we want clean & safe city,
+    we need to reduce/slow down spending, which is currently bankrupting the country
+  - He discussed with Trump, the idea of a government efficiency commission,
+    he would be willing to be part of,
+    to remove/delete the inefficient things,
+    "attacking the matrix" but "the matrix will fight back"
+- About civilization
+  - civilization is pretty recent, 5.5k years old, starting with the sumerians
+  - empires rise and fall
+  - civilization goes in cycles, no civilization is forever
+  - after a certain level of prosperity,
+    birth rate drops,
+    and civilization disappear
+    (source: "The lessons of History" by Will & Ariel Durant)
+    this is happening right now
+  - SpaceX goal is to establish a self-sustaining city on Mars,
+    as a back up plan for our civilization
+
+// ----------------------------------------------------------------------------
+// PART 2, DJ Seo
+
+- from 1:28:14 to 3:39:09
+- Lex Fridman interviews DJ Seo, the co-founder, president & COO of Neuralink.
+- DJ Seo starts by explaining his background.
+  [PAUSE TO READ]
+  - came to the US as a teenager, couldn't speak english, spent time alone reading
+  sci-fi books
+  - grandparents with severe form of Alzheimer
+  - studied electrical engineering during undergrad
+  - research in Micro-Electro-Mechanical Systems (MEMS)
+  - PhD program at UC Berkeley
+    - Wireless Telecommunication
+    - "smart bandaid" in collaboration with Pr Michel Maharbiz
+  - Pr Michel Maharbiz is known for remotely controlling beetles with brain implants
+
+- Michel Maharbiz introduced the idea of using ultrasound to build tiny implantable
+systems that can be parked next to a neuron being able to record its state and
+ping that back to the outside world
+- That formed the basis for DJ Seo's thesis called "neural dust"
+  - "neural dust": tiny, wireless sensors designed to be implanted in the body to
+  monitor and interact with nerves, muscles or organs. Powered & communicate using
+  ultrasound.
+
+- Explains the challenges to build tiny neuronal implants the size of neurons
+and why electromagnetic waves can't be used but ultrasound can
+
+- talk about the sciences & engineering behind neuralink implants
+  - how neurons works and what the electrodes measures
+  - types of physics involved
+  - the brain is mostly salt water at 37°C, harsh environment for any electronics to survive
+  - use backscattering to get the data back
+  - materials
+
+- history of Brain Computer Interfaces (BCI)
+  [PAUSE TO READ]
+  - 1790s: concept of animal electricity discovered by Luigi Galvani
+    connected set of electrodes to frog leg
+  - 1920s, Hans Berger discovered EEG & electroencephalography
+  - 1940s, Renshaw, Forbes, Morrison inserted glass micro electrodes into the
+  cortex and recorded single neurons.
+  - 1950s, Hodgkin & Huxley build the model of biological neurons that describes
+  the action potentials of a neuronal biological membrane
+  - 1969, Eb Fetz (Univ of Washington) published paper "Operating Conditioning
+  of Cortical Unit Activity", he was able to record a single unit neuron from a
+  monkey & was able to have the monkey modulated based on its activity & reward system
+  - 1980s paper by Apostolos Georgopoulos, discovered "motor directional tuning curve",
+  single neurons in the motor cortex exhibit maximal activity for a particular
+  "preferred" movement direction.
+  - utah array, array of rigid needles (not flexibles) (1997) only one electrode on each needle, no active electronics
+
+- describes the 3 major components of neuralink:
+  (image at 2:16:47 https://youtu.be/Kbk9BiPhm7o?si=aPd3-q23Z47Oo4k8&t=8207)
+  - N1 implant or "the link": the device that records the neurons
+  - R1, surgical robot that implants the tiny wires (threads)
+  - B1 app: software to decode the signals, running very simple ML model that
+  enable the first user Noland to move a cursor
+
+- About the "Link":
+  - implant has 64 flexible threads, each has 16 electrodes along the span of 3 or 4 mm.
+  Width of thread starts from 16 micron to 84 micron
+  For a total of 1024 electrodes, sampling at just under 20kH with 10 bit each = 200 Mb,
+  At the end of thread there's a loop the robot can grab to implant it.
+  They're inserted into the cortical layer (3 to 5 mm in the human brain) in the motor cortex region (by the robot)
+  - there's a custom integrated circuit (ASIC) that amplifies the signals & digitizing it
+  and has some mechanism for detecting if there were an interesting event detected,
+  and then decide to send that through bluetooth to an external device (phone or
+  computer) running the Neuralink app.
+  - each electrode can record between 0 to 40 neurons but practically speaking
+  they only see 2 or 3 at most.
+  - There's an external charging device, charging is done through induction.
+  - Most of the voume of the implant is the battery
+  - about the size of quarter, 9 mm thick
+  - still ongoing interrogation on the durability/longetivity & reliability of
+  these micro electrodes
+
+- talked about the entire process of the first man who received a Neural link:
+  - first human patient in january 2024: Noland Arbaugh
+  - there's a patient registery, where people can apply
+    then there's a selection then a prescreening interview process
+    then they go to their homes to do a BCI home audit
+  - bunch of tests, FMRI, to locate where to put the electrodes
+  - preparation: practice the surgery with pretty realistic models based on Noland
+    (2:48:22)
+  - surgery 2 to 4 hours
+    - anesthesia induction
+    - intra-op CT imaging to make sure we are drilling the hole in the right location
+    - surgeon comes in, does their thing, skin incision, craniectomy, atherectomy
+    - then robot inserts the threads one by one (20 to 40 minutes)
+    - surgeon closes this bitch up
+  - for Noland, one hour after the surgery, they made sure that they were recording
+  neural signals, and was already able to modulate a couple signals
+  - some of the threads retracted resulting in a net decrease in the number of
+effective electrodes, so they modified the recording algo to be more sensitive
+which end up improving the initial results
+
+- about safety:
+  - really high standard for safety, higher than a lot of operations
+  - supervised by FDA
+  - robots avoids vasculature
+  - they looked at slices of tissues (from animal experimentation):
+    - they have an entire department (department of pathology) to do that
+    - no damages/trauma were detected in the brain
+    - they've been impressed by the lack of immune response
+
+- removing implant
+  - depends if scar tissue has been made (~ 3 month after surgery)
+  - before first 3 months, quite easy to pull the thread out with minimal trauma
+  - more than 3 months: cut them, remove the implant, evidences show that you
+  can live with the thread for the rest of your life. The scar tissue hold them
+  in place.
+
+- first goal of neuralink: being able to communicate with a digital device using your mind
+  - moving a cursor
+
+- how to test that?
+  accelerated life tester is a brain in a ALT chamber, it's a vessel with salt water + bunch of stuff to replicate brain environment
+  increasing temperature in ALT chamber speed up the aging process
+  current version has been there for 2.5year => equivalent to 10 years
+
+- future of neuralink
+  - implanting neuralink in visual cursor to help blind people recover sight,
+  at least being able to detect edges of objects
+  - key metrics to improve
+    # of channels, current: 1024, end of year: 3k to 6k, next year: 16k
+  - they want to insert the threads through the dura (thick, opaque layer between
+  brain & skull) to minimize scar tissue formation
+  - discuss about how to upgrade
+  - multiple implants: one in each hemisphere
+  - movement: digital freedom to control cursor, then improve it to be able to
+  interact with real physical world (robotic arms...). Help restore speech,
+  - blindsight: goal is to put implant in visual cortex & do simulation
+  (today they mostly do recording but they have been able of stimulating for years
+  especially for re-activating limbs)
+    - lot of work to do
+    - would need external camera
+    - could beyond visible wavelength
+  - early patient: study safety & feasibility, improve device & process
+    then pivotal study: much larger trial to look at statistical significance
+    then market the device 
+  - there's a real possibilith to see 8 billion people (everyone) with a neuralink
+  in the future
+
+
+- when asked if he would get a neuralink implant: "absolutely, maybe not right now,
+but absolutely"
+
+- he said the word "kind" like a million times
+
+- oh and, Lex took some drugs in the jungle
+
+// ----------------------------------------------------------------------------
+// PART 3, Matthew MacDougall
+
+- from 3:39:09 to 5:06:11
+- Matthew MacDougall is the head neurosurgeon at Neuralink
+- talked about his background from neuroscience to neurosurgery
+  [PAUSE TO READ]
+  - studied primate behavior with Frans de Waal (pioneering primatologist)
+  - started studying neuroscience then went to medical school,
+    went to USC, joint PhD program with CalTech
+  - talked about the great surgeons he met
+  - what it takes to be a neurosurgeon,
+    work really hard, long hours, relentlessly,
+    decades after decades to reach excellence
+  - shared his experience of losing patients
+
+- About the full procedure of the N1 implant:
+  - really simple, straightforward procedure,
+    one of the most basic operation
+  - making a cut in the skin on the top of the head
+    where the representation of hand intentions is the most potent
+!   (the hand knob) (4:34:04)
+  - flap the skin open
+  - make a perfectly round 1 inch diameter hole in the skull
+  - remove that bit of skull
+  - open the lining of the brain (the layers between skull & brain)
+  - show that part of the brain to the robot
+  - select the targets for the robot
+!   - 4:21:03 lasso tool to select a prime area of brain real estate and it will
+    automatically avoid the blood vessels and automatically place a bunch of
+    targets that allows the human robot operator to select really good areas of
+    the brain
+  - and let the robot do its stuff
+  - then (human) puts the implant into that hole in the skull,
+    screwing it down to the skull,
+    sewing the skin back
+  - few hours long, extremely low risk
+
+- About the surgery on the first human
+  - partners at the Barrow Neurologic Institute
+    made everything as easy as possible for the trial
+  - he was extremely nervous (not about the safety)
+    because a lot of people were watching,
+    and anxious about possible unknown unknowns
+  - everything went well
+  - he placed the robot and the targets on the robot (using a mouse)
+
+- lot of practice, everything is tested extremely rigorously
+  lot of practice on animals, hundreds of animal surgeries
+- for first human, engineers built lifelike models,
+  with a puslating brain, in a custom 3D printed skull
+! that matches exactly the patient's anatomy (4:14:29)
+
+- there's a lot of variability in people brains & skulls,
+they had to "disqualify" people with skin or skull too thin or too thick
+
+- neuralink focuses entirely on surface targets,
+because there are no easy way to put 100s of wires deep in the brain without damages.
+So they stay at the surface level, you have much better vision
+- with neurosurgery you can get anywhere in the brain.
+  - it's routine for him to put deep brain stimulating electrodes
+    near the very bottom of the brain
+  - but you have little visibility,
+    requires preoperative MRI merge with CT scan by specialized software
+  - usually performed with the help of a robotic arm
+  - it's accepted that there's 1 in 100 patients who have a bleed
+    somewhere in the brain (that's not acceptable for Neuralink)
+
+- vision is a little deeper in the brain than the "hand knob", maybe 1 cm deeper
+
+- neuralink arose partly after Utah arrays would failed routinely
+  because it would trigger a bad immune response
+  - Neuralink approach of using tiny flexible electrodes
+    avoids a lot of the bleeding,
+    avoids a big immune response,
+    increase electrode longevity (still doing good after years in animals)
+  - the health of the tissue immediately surrounding the electrode is excellent
+
+
+- in the future, they could sew electrodes into the spinal cord
+  as a potential workaround for a spinal cord injury.
+  That would allow brain-mounted implant to communicate with spine-mounted implant,
+  to trigger muscular responses.
+  - They have that working, in very crude forms, in animals
+    (doing grasp, moving their legs)
+
+
+- Q: "Would you have a neuralink chip implanted in your brain?"
+  A: "Yeah"
+- he already has an RFID chip in his hand containing his business card,
+  and it can open the front door of his house
+
+- The value proposition of Neuralink for the average person:
+  - new way to interact with digital devices, faster, more efficiently
+  - recording speech intentions
+    - to remove keyboard
+    - speaking (in your mind) to an AI agent, that would answer you in an earphone.
+      You could silently ask for information
+      and getting it read to you in your ear without anyone knowing.
+  - can we make people able to take care of themselves
+
+- It feels like we are cavemen,
+  we're barely touching the surface, and will be able to do crazy things
+
+- technology on the academic side is progressing at light speed
+  - paper out of UC Davis: "an accurate and rapidly calibrating speech neuroprosthesis"
+    a BCI was able to recognize 125k words (thinking the word, BCI recognizes it)
+
+- conciousness could be the sensation of some part of your brain being active
+you feel it working, like you feel the palm of your hand being touched
+
+- Lex took some drugs in the jungle btw (3rd time he's saying that)
+
+
+// ----------------------------------------------------------------------------
+// PART 4, Bliss Chapman
+
+- from 5:06:11 to 6:48:59
+- Bliss Chapman is the "brain interface software lead" at Neuralink
+- listed his Neuralink resume
+  [PAUSE to read]
+  he was part of the team that interviewed and selected P1 (noland)
+  he was in the operating room, monitoring live signals coming out of the brain 
+  he works with the users everyday to develop new UX paradigm's decoding strategies
+  he's part of the team that figured out how to recover useful BCI to new world record levels when the signal quality degraded
+- his motivation to work at Neuralink is to help paralyzed people gain independence
+- he mainly focuses on the User Experience (UX)
+- his goal is to create the "best mouse",
+  he believes esport could be dominated by paralysed players with implants.
+  - you have like 75ms lead time on any action
+  - the latency currently from brain spike to cursor movement is about 22 ms
+    while brain spike to hand movement is about 75 ms
+- there's a real challenge to detect the true intention of the user
+  the goal of the UX is to accurately detect it
+  & convert it to an action (moving cursor, clicking, scrolling...)
+
+
+// ----------------------------------------------------------------------------
+// PART 5, Noland Arbaugh
+
+- from: 6:49:00 to 8:37:34
+- Noland Arbaugh is the first human with a Neuralink Implant
+- Could have waited to be number 2 or 3, but being first is pretty cool
+- In 2016
+  Noland got paralyzed from the shoulders down
+  after diving in a lake and receiving a hit to the left side of his head
+- Noland is a very positive, stress-free, extroverted individual
+  with a good group of people around him to support him
+- Noland has a strong faith in God,
+  this accident made his faith stronger
+- since the accident, he wants to try everything possible to make his life better
+- doctors told him to keep trying to move his body because it can create new
+  neural pathway to reconnect things & regain some movements
+  (body training)
+  - this is hard both mentally & physically
+! - (add kill bill ref) it's like the kill bill movie
+    <https://media.licdn.com/dms/image/C4E12AQEVySUhk5sXOQ/article-cover_image-shrink_600_2000/0/1631796474764?e=2147483647&v=beta&t=JmS91azXPbMSaHuXPkKgBiFTupzM1S92bi08L0mWgpU>
+  - it feels like there's a build up
+    it feels like there are signals that get stuck somewhere
+    and build up until they burst
+    once they burst, he has a really weird sensation of everything dissipating.
+- About the surgery:
+! 7:05:51 footage of operation
+  - He trusts the people at Neuralink & Barrow with his life
+  - The morning of the surgery, he was just excited, he wasn't scared
+  - facetimed Elon Musk
+  - at the hospital at 5:30 AM
+    went through all the pre-op stuff
+  - prayed
+  - surgery at 7 AM
+  - woke up and played a bit of a prank on his mom by asking her "who are you?"
+  - didn't feel any pain
+  - after surgery, some neuralink employees brought an ipad, they had put up 8
+    different channels that were recording some of his neuron spikes
+    So he started trying to wiggle his fingers, and a yellow spike appeared
+!    (7:12:12)
+- At the beginning is was doing a lot of "body mapping":
+  there's a visualization of a hand or an arm on the screen
+  and he has to attempt to do that motion
+  this is how the algorithm is trained to understand what he's trying to do
+- body mapping is pretty much what he was already doing to try to recover some
+movement, but Neuralink gives him some feedback, he can see the signals in real
+time
+- body mapping is essentially like body training
+- he was able to move the cursor within the first or second week
+- attempted vs imagined movement
+  - attempted = physically trying to move
+  - imagined = thinking about moving
+  - he thinks attempted movement is easier & more natural
+    and was moving the cursor like this
+  - but one day he realized he could imagine moving the cursor.
+    For the first time, he was mind controlling the cursor,
+    and was really impressed that he could do that!
+- After about a month,
+  - 85% of the implant's threads had retracted from his brain's motor cortex.
+  - before the threads retracted they were calibrating clicks,
+    now is unable to click with his mind, he uses a dwell cursor
+  - was very sad about that
+  - after a couple weeks,
+    they changed the way they measured the behavior of individual neurons
+    switched from individual spike detection to spike-band power
+    and now it got better
+- About the Neuralink App:
+! (visual at 7:36:55)
+  - it's an app to help him interact with the computer
+  - this is how he connects to the computer in general
+  - there are few different settings
+  - he has a homework tab (todo list)
+  - webgrid is integrated to it
+  - he has to have the implant charger over his head to be able to connect
+    cause the implant is in hibernation mode
+  - this is where he does calibration = how to get cursor control
+- About Calibration
+  - training phase to learn to control the cursor
+! - calibration is a bubble game (7:40:10)
+  - at first it's open loop:
+    no control over the cursor
+    cursor is moving on its own across the screen
+    and he's following it by intention
+  - calibration with attempted movement works better than imagined movement
+    and it generalizes to imagined movement
+  - close loop: when he's the one controlling the cursor (visual feedback)
+  - calibration can list a minimum of 7 minutes
+    but for better results, it takes 40 to 45 minutes
+- he's doing data collection daily
+
+- About WebGrid
+!  - !!!! vid of him playing at 8:15:50
+  - webgrid is grid that you can make a small or big as you want
+  - a cell lights up & you have to click it
+  - it's a way to benchmark BCI
+    - the bigger the grid the more BPS
+    - BPS increases if you have multiple type of clicks
+      (right (orange), left (blue))
+  - he's doing that on 35x35
+  - he's addicted & grinding it
+- Neuralink helps him do more things independently
+  he can play games (snake.io, civilization 6), read, listen to music
+! him playing snake.io at 7:37:55
+- He's excited to see the next Neuralink users, to see what work for them, see
+  if they have new ideas to make things better!
+- In the future, he would like to be able to
+  - do clicks
+  - connect to more devices (now, it's just computers)
+  - control an optimus robot to be more independent
+- they played around with "finger spelling" to write some text
+
+
