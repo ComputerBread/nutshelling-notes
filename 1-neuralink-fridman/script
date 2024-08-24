@@ -362,12 +362,13 @@ you feel it working, like you feel the palm of your hand being touched
 
 - from 5:06:11 to 6:48:59
 - Bliss Chapman is the "brain interface software lead" at Neuralink
-- listed his Neuralink resume
+- his Neuralink resume:
   [PAUSE to read]
-  he was part of the team that interviewed and selected P1 (noland)
-  he was in the operating room, monitoring live signals coming out of the brain 
-  he works with the users everyday to develop new UX paradigm's decoding strategies
-  he's part of the team that figured out how to recover useful BCI to new world record levels when the signal quality degraded
+  - he was part of the team that interviewed and selected P1 (noland)
+  - he was in the operating room, monitoring live signals coming out of the brain 
+  - he works with the users everyday to develop new UX paradigm's decoding strategies
+  - he's part of the team that figured out how to recover useful BCI
+    to new world record levels when the signal quality degraded
 - his motivation to work at Neuralink is to help paralyzed people gain independence
 - he mainly focuses on the User Experience (UX)
 - his goal is to create the "best mouse",
@@ -378,7 +379,52 @@ you feel it working, like you feel the palm of your hand being touched
 - there's a real challenge to detect the true intention of the user
   the goal of the UX is to accurately detect it
   & convert it to an action (moving cursor, clicking, scrolling...)
+- the biggest challenge of UX is making sure the user is imagining the right
+  behavior and not something slightly different
+- what neuralink try to measure is the individual neurons producing action potentials
+  which last about 1ms, sampled at 20 kH (so for 1 ms -> 20 samples)
+- the signal is converted into a binary signal, 1: spike, 0: no spike
+- the frequency of the spikes is strongly correlated with the output intention
+  (so the brain may represent information by changing the frequency of neuron firing)
+- once the signal is acquired, there's a decoding phase:
+  processing the brain data and turning it into an action (ex: cursor movement)
+- the decoder is a machine learning model that is trained by the user:
+  the user imagine a behavior, the signal is mapped to an action
 
+- About the Neuralink App
+  - the goal is to help an individual navigate his computer independently
+    => replacing mouse & keyboard
+  - the job of the app is to translate the wireless stream of brain data
+    coming off the implant into controls of the computer.
+    - it does that by mapping the brain activity
+      to an input signal to the actual hardware
+  - they update the app quite frequently (sometimes 4/5 times a day)
+  - the app comes with a lot of controls that the user can tune:
+    speed, smoothness, friction... of the cursor
+  - gives ability to calibrate models, so users can explore what work best
+
+- To measure the performance of the BCI, neuralink uses web grid:
+! - (5:57:18) web grid: grid of cells, a target show up, need to click it
+  - there are different modes:
+    - left click
+    - right click
+    - left + right click
+    - ...
+    - simplest mode: blue target show up on screen, you left click it
+  - Noland is the best in the world at this task with a BCI
+    - previous human WR: 4.2 to 4.6 BPS
+    - Noland: 8.5 BPS, then 9.51 BPS
+  - Chapman's own record is 17.01 BPS
+- The performance of a BCI is measured in Bits Per Second (BPS)
+  - BPS is computed by taking the log of the number of targets on the screen
+  TIMES (the number of correct selections MINUS incorrect)
+  DIVIDED by time window
+  (you can subtract 1 to model a keyboard (because one is the delete key))
+! LINK TO FORMULA: <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7970827/>
+
+- This conversation was pretty technical
+  they talked about body mapping, calibration, re-calibration, open & close loop, UX...
+  check the original video to get more information
 
 // ----------------------------------------------------------------------------
 // PART 5, Noland Arbaugh
@@ -471,7 +517,7 @@ time
 
 - About WebGrid
 !  - !!!! vid of him playing at 8:15:50
-  - webgrid is grid that you can make a small or big as you want
+  - webgrid is a grid that you can make as small or as big as you want
   - a cell lights up & you have to click it
   - it's a way to benchmark BCI
     - the bigger the grid the more BPS
