@@ -1,0 +1,468 @@
+- https://www.youtube.com/watch?v=oFtjKbXKqbg
+- Pieter Levels: Programming, Viral AI Startups, and Digital Nomad Life | Lex Fridman Podcast #440
+- Save 3h43m33s
+
+- Pieter Levels, @levelsio on X
+- self-taught developer & entrepreneur
+- designed, programs, shipped and ran over 40 startups
+  many of which are hugely succesful
+  in most cases, he did it all by himself
+  while living the digital nomad life, in over 40 countries & 150 cities
+- programming on a laptop, on a couch
+- use HTML, jQuery, PHP and SQLite
+- lived in Holland
+- graduated university (in Holland)
+- studied in Korea in 2009
+
+- (00:02:08) tweet
+  "Only 4 out of 70+ projects I ever did made money and grew"
+
+- make everything himself
+  don't raise money
+  developer, designer,
+  make the logo
+- much more scrappy
+- because no funding, need to go fast to see if an idea works
+- got an idea
+  build a micro, mini startup
+  launch within two weeks or so,
+  check if people actually sign up & pay money
+  if they pay, the idea is validated
+- most ideas don't work
+
+- being alone allows him to be fast
+  which is an advantage compared to big companies
+
+- About the gym
+  - overhead press (shoulder press), feels good, it's like you win
+  - it acts like therapy for him
+  - something about "hard work", physical work, that makes you feel better
+
+- building is about having fun
+  - he was doing it when he didn't make money
+  - he was making electronic music, drum, bass music 20 years ago
+  - fun to have a daily challenge, try to figure stuff out
+  - doing something creative is fun
+
+- build a lot of things
+  but never scale it, and made it big
+  => not something he controls,
+     but doesn't want the stress that comes with it
+  - he has friends who built companies with VC fundings
+    and they don't like it, they don't want to become CEOs or managers
+
+
+LOW POINT:
+- graduated from univeristy in Holland
+  didn't want to get a normal job
+  because couldn't hangout with his friends on the week
+- was making money with youtube
+  he had this music career & was uploading music on youtube
+  getting money from AdSense
+  $2k, $3k
+- didn't see himself live in holland
+  at 27, left and went to Asia (thailand)
+  started digital nomading, did that for a year
+  but that made him feel worse, he was alone in hotel rooms.
+  Questing his life, while his friends were doing really well with normal jobs
+- felt like an outcast
+- money was shrinking
+  was making $500 a month
+- "I am 27, I'm a loser", that's when he started building startups
+- his dad told him, "if you are depressed, you gotta take a shovel, start doing
+something, can't stay still"
+- about feeling like a loser
+  - it's normal if you are young to feel like a loser
+- travel can make you insane,
+  it can be very psychologically taxing
+  he knows digital nomads that killed themselves
+  - you are a stranger
+  - you don't have home
+  - you're constantly moving around
+  - some digital nomads were doing shady stuff (like selling drugs)
+  - felt like an outcast, even among other nomads
+- went back to holland
+  got even more depressed
+
+
+- started "12 startups in 12 months"
+  - every month, would launch a project, with stripe
+  - basic format:
+    - try to build a thing
+    - put it online
+    - put a Stripe checkout button
+  - at that point he could code a little bit
+    - when he was doing youtube
+      he made a website for the youtube channel "Panda Mix Show"
+    - his CD album was using Flash
+      - ActionScript (Flash's javascript equivalent)
+      - Lex wasted a lot of hours learning Flash
+      - Steve Jobs killed it, "Flash sucks, stop using it"
+  - he had to learn to code, & basic stuff
+    but didn't have much time, because he needed to launch 1 project per month
+  - published it as a blog post, to be accountable
+  - first project: "Play my inbox"
+      2013, him & his friends would send music to each other (youtube links)
+      by email, they had giant email threads on gmail
+      the app would long into Gmail, get the emails and find the ones with
+      YouTube links and then make a gallery of the songs
+      - this got a bit of press attention
+      - free, no pay button
+      - 10,OOOs of people using it
+      - hard to make money with extensions, plugins
+        people expect these to be free
+        - extensions should be extension of your startup, your original product
+  - the hard part is to figure out what you shouldn't build
+    what feature you shouldn't build
+    because you don't have the time
+
+  -
+  - need to build a landing page
+  - need to build the product
+  - do you need to build a login system?
+    maybe no, for photoAI, you sign up, you pay for Stripe you get a login link
+    with a hash, not very safe but did that for a year, now he has google login
+  - keeping it very scrappy is very important to be fast
+
+  - so
+    - product
+    - landing page
+    - stripe checkout
+    - scrappy login with login link
+  - how are people gonna find it?
+    - put it on reddit? how do you do to not look like a spammer?
+      maybe find a subreddit that could be interested
+
+- when he was 9 yo, he was making websites
+  tried to open a merchant account
+  - before Stripe, there was "worldpay", you had to fill out forms, had to fax
+    them to America
+  - nobody paid for anything
+
+
+- digital nomad
+  - Asia is cheap, Chiang Mai (thailand), rent for $150/month
+  - work remotely with laptop on your business
+  - very adventurous life
+  - travel around, build your business
+  - no pressure from your home country/society (get a job, a house, a wife & kids)
+  - feel free
+    nobody telling you what to do
+    (Lex: Franz Kafka said "I am free and that is why I am lost.")
+    - but feel like an outcast
+      free but can't relate to anything or anyone
+    - you think being free would make you happy
+      but actually he thinks constraints probably make you happy
+  - go from city to city
+    see a lot of cool things
+  - common thing: people would wake up & forget where they are
+  - didn't make him happy, made him anxious
+- nomalist.com
+  a community of 3k digital nomads
+  built it because he was feeling lonely
+  organized meetups, made friends
+
+
+- favorite place: Bangkok & Chiang Mai, Thailand is very special
+  - thailand wins in how nice people are
+    how easy of a life people have there
+    but air quality sucks & quite hot
+
+- happy memories
+  - in Bali, wake up at 6PM
+    drive to the coworking space on a motorbike
+    buy 30 hot lattes from a cafe (for like 6 people)
+    work all night (because coworking space was silent), locked in
+    play techno music
+    when sun would go up (6am) the yoga people would come in
+    they would go home, sleep in a hostel or hotel
+
+- drum & bass, industrial techno, fast pace is good for coding
+  makes you want to lock in & get things done
+
+
+- book "make, bootstrapper's handbook"
+  - how to find ideas?
+    - spot problems
+      find something in your daily life that doesn't work well
+    - make a list of these problems
+      (he used trello, now he uses telegram)
+      if you can find a viable solution & build it
+    - to come up with interesting ideas
+      you gotta try to live a more interesting life
+    - travelinig helps you discover new things
+    - used to have a list of ideas
+      statistically the more you have & try, the higher the probability that one
+      will work
+    - now that he has money, he can do more things based on technology
+      ex of AI, exploring possibilities & trying things, not based on existing
+      problems
+  - choose idea that is the most viable to build
+  - build
+    - build with the tech that you know
+    - use the simplest things, you can use google sheet to start your business
+      (ex of nomadlist)
+    - the tech is not important when you start a business
+      what's important is to validate the idea, that there's a market, a product
+      that people want to pay for
+
+- photoai.com
+  - fire your photographer
+    you don't need a photographer anymore
+  - you can train yourself as an AI model
+    you can generate picture of you in any place, clothes, facial expression
+  - use replicate for the compute
+    https://replicate.com
+  - tried to figure out how to do photo realistic AI photos
+    - stabe diffusion by itself was not doing that well by itself
+    - started to find these fine-tuned models that did better.
+      these models were trained with c*rn
+    - so need to remove it,
+      need to prompt out the NSFW content
+    - he has google vision to check every picture for NSFW
+  - PHP, jQuery, SQLite
+    - people are getting sick of JS frameworks
+  - story about this:
+    - beginning of stable diffusion
+    - somebody forked it & made it work for macbooks
+    - downloaded it, clonede the repo
+      started using it to generate images
+      write a prompt & it generates an image
+      - it was bad at people
+      - but it was good at making houses, architecture
+    - made thishousedoesnotexist.org
+    - pivoted to interiorai.com
+      generate interior design
+      - then new tech called image to image
+        input an image and modify it
+      - take a photo of your house interior
+        & prompt it to change the design (ex: maximalist design)
+      - launch it & made 10k, 20k a month
+        it still makes $40/50k a month
+      - then fine tuned the model
+        with interior design images
+    - learned fine tuning
+      get existing (pre-trained) model, and train it on specific goal
+    - then for fun, fine tuned a model using pictures of himself
+      and it worked
+      and you could prompt image to modify it to fit a certain style
+    - that gave birth to avatarai.me
+      went viral made like $100k in a week,
+      (big VC companies like Lenze built an iOS app that does the same, made like $30 mil)
+      but it was cheezy, it was hype, let's focus on a real problem
+    - this became photoai.com
+  - making photoai better:
+    lot of people using it, a million/month of images generated
+    he would set random values to parameters to see what works best
+    (users select/download the best ones, and use this info to take the best
+    parameters)
+  - most people are still on Stable Diffusion 1.5, because it's better than
+  newer version (1:16:17)
+
+- avatarai.me
+  - shared the process on twitter
+  - used 7 photos of himself (at the very beginning) to train the model
+  - started generating photos of himself & sharing them on twitter
+  - receiving DMs of people wanting to do the same
+  - so he made an HTML page
+    with a Stripe payment link
+    they would get a link to a Typeform to upload their photos (after paying)
+    but he didn't code anything to automate it, so he was doing it manually
+    for the few 100 customers, he literally took their photos, train them,
+    then generate the photos with the prompts and send the generated images by
+    email.
+  - made $100k in 10 days
+  - validated very quickly, but was hype and died very quickly
+  - people would uplaod full body picture
+    so he would crop the face, but lose body appearance
+    (now he used face & body pictures)
+
+  - he uses platforms to fine-tune models
+    the vendor increased price from $3 to $20 when they realized he was making
+    that much money
+    - so started talking to other ML platforms
+      replicate was one of those platform
+      he DM the CEO: "can you please create this fine tuning thing"
+      CEO said "no, it takes too long to run, we don't have the GPUs for it"
+      after a week he accepted, and they launched it
+
+  - data is the most important
+    - photos should be diverse, should have different closes, different environment
+    - you want the AI model to train/recognize the thing that is always the same
+    
+
+- his tech stack: HTML, JavaScript, jQuery, PHP & SQLite
+  - that the thing he knows
+    and what he was using when his startup took off
+  - put "learn Node.js in his to-do list"
+    but didn't have the time to learn it
+    - "one time I'll start coding properly" but never got time to do it
+  - can get more stuff done if you don't care how you do it
+  - now there are frameworks that raise a lot of money (millions of $)
+    and promote it to young developers, so they use these frameworks and the
+    platform that comes with it.
+    So you should use the pricy platform (*cough* vercel *cough*)
+    which is 10x the price of hosting it on a server or VPS
+    - they pay dev influencers to promote this stuff
+  - people ask him why he doesn't use "X" technology, why not use this new tech,
+    new frameworks
+    => because PHP just works
+       he don't really optimize anything
+  - he's suspicious about money in these frameworks
+
+- focus on what matters
+  - gear acquisition syndrome
+
+- you need to join X (twitter)
+  the whole AI industry is on X
+  anime pfp chads
+  - can learn a lot
+
+- life is like surfing, you are getting carried away in some direction
+  - can't control everything
+
+- hoodmaps
+! (1:29:57)
+  - documented the whole process with blogpost & video
+  - app, like google maps, put colors over areas
+  - blue = offices
+    green = rich
+    yellow = hip
+    red = tourists
+    dark blue = Uni
+    grey = normies
+    ...
+  - google maps iframe
+    on top of it 50% opacity HTML canvas
+    then draw colors on top of it
+  - crowdsource the thing to color the maps
+    people would color with different colors
+    then a cron job would pick the color with the "most votes"
+  - in 1 week enough data
+  - most data in Los Angeles
+  - tagging: to write something on a specific location
+    (like don't go there)
+    can upvote or downvote
+!   (1:35:18)
+  - went viral
+    ran out of google maps credit
+    switched to mapbox and got a bill of $20k
+    switched to open source
+  - made $0
+    couldn't monetize it
+    but some things should just exist, it's cool that hoodmaps exists
+    (ads? but where do you put ads)
+  - front page of reddit
+    - server went down
+
+- nomadlist
+! (1:42:12)
+  - list of best cities to live & work as digital nomads
+  - started as a public google spreadsheet anyone could edit
+    (crowdsourced, people adding information)
+  - turned it into a website
+  - started when he was in Chiang Mai (Thailand)
+  - collection of information about a city
+    rent, internet speed, weather, healthcare, nightlife, happiness, income level,
+    education, power grid, safety...
+  - started with crowdsource
+    then realized he can download data from accurate public dataset
+    (like WorldBank, United Nations)
+  - members can add where they are or their travels
+    you can click on a city & see the people who are there, who will be there,
+    or who were there
+!   (1:44:38)
+  - 30 to 45k members
+  - members organize meetups (by themselves)
+
+- lex also built a public spreadsheet for working out
+  and there was little trolls
+  people would delete the trolls, like a sort of immune system
+
+
+- how do you learn quickly & effectively
+  - 30-day session to learn 3D
+  - taking action is the best way to learn
+  - making things, you know nothing, you google stuff or ask chatGPT and you
+    learn like that
+  - build, build, build
+    faster than reading books or tutorials
+  - be consistent, don't quit, keep doing it
+  - go one problem at the time
+    how to build this, search, learn, do it, then next thing, then next thing,
+    then why does this not work...
+
+- girl who did 160 websites in like 160 days or something
+
+- build in public
+  - power of crowdsourcing
+  - haters are actually good
+    - haters have good points
+      ("your website because [actual pain point]")
+    - need to grow a very thick skin (on twitter, x)
+    - muted 15k people (in 10 years)
+      doesn't block, because people are annoying
+
+  - Today, TikTok, YouTube shorts, Instagram reels is the way to market your product
+    - got $20k extra per month from one TikTok video (for photoai)
+      made by some random guy
+    - some influencers make videos on app or product
+      and then they go ask the builder and say "I can do it again for like $4k"
+    - TikTok is a big platform for user acquisition
+      it's organic
+    - you don't need a lot of followers anymore to go viral
+      (on X, TikTok, instagram)
+      - they test your content on a small subset, like 300 people
+        if they like it, it will be tested on 1k, and on and on
+
+- getting paid
+  - lot of people try freemium
+    - never worked for him
+    - generally free users don't convert (to paid)
+    - if you have VC funding, it makes sense, because you can have a lot of people
+    coming with ads, and give free trials
+    - converting free to paid users is very difficult
+  - it's best to start asking for money right away
+    - show you app,
+      show what you are doing on the landing page
+      make a demo, a video or whatever
+    - if you want to use it, pay money
+    - ask more than $10 a month
+      (Netflix is $10/month, but Netflix is a big company that can afford to
+      make it relatively cheap)
+      - when you are an indie hacker, you need to make at least $30 per user
+        to be able to survive
+    - it builds a community of people who care about the product
+      - common to make a discord
+        very normal to have the devs & users in a discord server
+      - high quality users
+        - free users are horrible
+          millions of people
+          abusing your app, hacking
+          complaining, high expectations
+      - prevent bots & spammers
+  - make margin very high
+    - keep costs very low (he doesn't hire anyone)
+    - try to negotiate with AI vendors now
+      - you can just email people and ask for a discount
+        a lot of them would say yes, like 25%, 50%
+      - being a "public" person can help
+        (that's why you should shit post on twitter, to get discounts)
+
+- 4chan
+  - "The antisocial network" on netflix, about 4chan
+  - anti-system for fun
+  - you'r having fun, you're anti-system
+    but the nazis always show up
+    it start drifting
+      - bad shit happens
+        like school shooting
+  - 2010 Levels would go on 4chan for fun
+    they would post crazy offensive stuff just to scare off people (normie filter)
+  - it was always about provoking
+  - 4chan discovered hoodmaps
+    would write some nasty shit
+    he added a NSFW word list
+
+2:09:44
+https://youtu.be/oFtjKbXKqbg?si=wUyTUFvN-tcV2zZh&t=7784
