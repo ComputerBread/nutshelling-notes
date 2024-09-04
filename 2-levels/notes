@@ -464,5 +464,38 @@ something, can't stay still"
     would write some nasty shit
     he added a NSFW word list
 
-2:09:44
-https://youtu.be/oFtjKbXKqbg?si=wUyTUFvN-tcV2zZh&t=7784
+
+- how do you fight spam?
+  - use GPT-4
+    -people can post reviews
+    -he asks GPT-4 if they are good reviews, is it offensive, is it racist...
+    -it sends him messages on telegram when it rejects reviews so he can manually
+    check
+  - he has GPT-4 on the chatting community to moderate it
+    it's good, it understands humor, double senses...
+  - uses GPT4 for fact check
+
+
+
+- automation
+  - once you have a thing, you built it, it starts making money
+    automate it
+  - once you start making money, you can start hiring people
+    but he felt like he doesn't have the money for that,
+    he doesn't want to manage people/a big company
+  - try to automate as much as possible
+    everything that can be automate, why have someone do it
+  - now with AI, you can automate so much more stuff than before
+  - lot of cron jobs
+    - he logs into the server
+      sudo crontab -e
+      and makes php scripts execute hourly "php do_something.php"
+  - healthchecks
+    - webpages have healthchecks (with ✅ & ❌ emojis)
+      to test: internet speed, # of signups, database connection...
+    - uptimerobot.com
+      can check keywords, so it checks for ❌ (the red X emoji)
+      so it opens the healthcheck webpage every minute to check if something's bad
+    - if it's bad it sends him a message on Telegram
+
+2:17:52
