@@ -497,5 +497,117 @@ something, can't stay still"
       can check keywords, so it checks for ❌ (the red X emoji)
       so it opens the healthcheck webpage every minute to check if something's bad
     - if it's bad it sends him a message on Telegram
+  - all php & javascript errors are sent to his telegram
 
+- social media
+  - doesn't use tiktok anymore, feels dumb
+  - mute board list
+    mute politics
+  - you need to "mod" your app to get good content
+    & not be toxic for your mental health
+
+- never sold a company
+  - been in a lot of acquisition negotations
+    - lot of people string you on to acquire you
+      it takes 6/12 months, then want to see everything, stripe, code...
+      then they will change the initial price to lower
+    - companies are usually sold as a multiple of the revenue or profit (3-5x)
+    - for him, everything is automated, he can just wait a few year to make that
+      money, it doens't make sense to sell
+
+- working solo
+  - not good at working with other people
+  - don't trust people
+    - trust some people, his bestfriend Andre,
+    - hired a guy to code the AI in python for photoAI
+  - don't want to have consensus meeting, "compromise results"
+    - end up with average ideas, average company, average culture
+  - never coded with someone else
+
+  - solo vs big companies
+    - lex fridman about MLA (multi-language audio) team at youtube (you can have
+    multiple audio for the same video for different language)
+    everything needs to be approved, slow,...
+    - legal team
+    - (lex) needs a powerful/dictatorial leader
+      ignore lawyers, ignore PR, ignore everybody, give power to the engineers
+      listen to people on  the ground, get shit done
+
+- can't code ruby, python
+  doesn't know react, nodeJS
+
+- he's making a new AI startup with his bestfriend
+  Andre codes,
 2:17:52
+
+- lex frid: I like working with people where when I approach them I pretend in
+my head that they are the smartest person who has ever existed. Then look at
+what they build, code (or whatever), and try to see the genius of their way.
+You really have to understand people, understand how they think
+  - code empathy
+
+- most people are very average at their job
+  especially with coding
+
+- push to production
+  modifies something -> cmd+enter -> automatically commit + push + deploy to prod
+  - doesn't have a test env
+  - can fix bug really fast
+
+- bugs are a good things, it shows that the team is building
+
+- use VScode
+- says he doesn't have the time to learn new tech
+  he probably should, he wants to learn things like react & next, but he prefers
+  to work on the businesses, or learn about AI
+  - maybe it could be good to learn new things
+    see what works best
+  - there's no "common"/"standard" way to build web app
+    it's hard to tell what's the best way to things
+- use macbooks since 2014
+  switched from windows, with 3 screens, set up for music prod...
+    - the finder is horrible
+
+- favorite place to work: the couch
+  16" macbook, no external screen
+
+- go to sleep at 2AM, before 4AM, his gf goes to sleep at midnight
+  wake up at 10/11am, shower, make coffee
+  chill a bit with gf
+  then open laptop, start coding
+    (used to code for long hours, but trained to have more interruptions, can
+    lock in & lock out very fast now)
+  cook, have lunch, or go out
+
+- listen to techno
+  listen to HÖR Berlin
+
+- coworking space
+  - 45min slots where not allowed to speak or you give $1 per word
+
+- remoteOK: a job board for remote jobs
+  job posts start at $299
+  at the peak 2021, making $140k/month, then went to $10k, now back to $40k
+  adding crazy upsells: like rainbow color, background images ($1k)
+  -> job post would cold $3 or $4k
+
+
+3:07:07
+
+people around you, people you lvoe, nice food, nice experiences, meaningful work, exercise
+
+- wrote a blog post about "why I'm unreachable and maybe you should be too"
+  - getting lot of DMs
+    people were angry that he wasn't responding
+    so he closed his DM
+    so explain why he closed 
+
+- advice to young people
+  - listen to nobody, do what you think is good & follow your heart
+  - everybody peer pressures you into doing stuff you don't want to do
+  - try your own thing
+    there's space in the economy for you to do your own thing
+  - gotta go all out
+
+
+
